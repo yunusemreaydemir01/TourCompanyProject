@@ -38,10 +38,6 @@ PhoneNumber int,
 PRIMARY KEY(GuideID)
 )
 
-
-
-
-
 CREATE TABLE Invoices
 (
 TouristID int,
@@ -53,8 +49,6 @@ InvoiceDate date,
 InvoiceID int,
 PRIMARY KEY(InvoiceID)
 )
-
-
 
 Create Table Sales
 (
